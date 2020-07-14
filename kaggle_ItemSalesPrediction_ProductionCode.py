@@ -29,6 +29,8 @@ pd.set_option('display.max_rows', 500)
 pd.set_option('display.max_columns', 100)
 sys.version_info
 
+##mark this is an updated file
+
 ### import data                                      
 os.chdir('C:\\Users\\randu\\OneDrive\\Documents\\datascience\\Python Scripts\\predict_sales\\final_doc')
 #os.chdir('your directory')
